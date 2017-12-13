@@ -6,3 +6,4 @@
 */bin/
 */META-INF/
 .sqlite3
+*/venv/
