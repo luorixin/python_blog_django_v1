@@ -1,0 +1,8 @@
+.classpath
+*.iml
+.idea
+.DS_Store
+*/target/
+*/bin/
+*/META-INF/
+.sqlite3

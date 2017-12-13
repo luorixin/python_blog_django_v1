@@ -1,0 +1,7 @@
+Django==1.10.6
+intervaltree==2.1.0
+Markdown==2.6.10
+Pygments==2.2.0
+pytz==2017.3
+sortedcontainers==1.5.9
+tag==0.3.3
