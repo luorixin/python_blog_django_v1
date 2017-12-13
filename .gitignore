@@ -5,5 +5,5 @@
 */target/
 */bin/
 */META-INF/
-.sqlite3
+*.sqlite3
 */venv/
