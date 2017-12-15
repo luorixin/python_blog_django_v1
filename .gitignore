@@ -7,3 +7,6 @@
 */META-INF/
 db.sqlite3
 /venv/
+/static/
+*/__pycache__/
+/whoosh_index/
