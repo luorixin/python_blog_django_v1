@@ -10,3 +10,4 @@ db.sqlite3
 /static/
 */__pycache__/
 /whoosh_index/
+*.pyc
